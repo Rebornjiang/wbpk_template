@@ -1,4 +1,8 @@
 #app {
+  /* CSSS 注释 */
   background-color: lime;
   transform: translate(0,0);
+  height: 400px;
+  background: url('@/assets/img/404.png');
+  border: 1px solid #ccc;
 }

@@ -1,2 +1,5 @@
 import '@/styles/index.css'
-console.log(1)
+import '@/styles/test.less'
+
+
+const p = Promise.resolve(33)

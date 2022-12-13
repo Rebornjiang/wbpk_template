@@ -5,8 +5,11 @@
 
 
 const config = {
+  dev: {
+
+  },
   stage: {
-    BASE_URL: '',
+    BASE_URL: 'https:10.0.7.12',
     SSO_BASE_URL: '',
     FILE_URL: ''
   },
